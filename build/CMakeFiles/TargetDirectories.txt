@@ -1,0 +1,10 @@
+/home/stenasd/src/cpp_ctest_template/build/CMakeFiles/edit_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/CMakeFiles/rebuild_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/src/CMakeFiles/your_project.dir
+/home/stenasd/src/cpp_ctest_template/build/src/CMakeFiles/edit_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/src/CMakeFiles/rebuild_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/test/CMakeFiles/tests.dir
+/home/stenasd/src/cpp_ctest_template/build/test/CMakeFiles/edit_cache.dir
+/home/stenasd/src/cpp_ctest_template/build/test/CMakeFiles/rebuild_cache.dir
